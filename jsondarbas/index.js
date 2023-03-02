@@ -1,0 +1,4 @@
+console.log("hi");
+const logger = require('./logger');
+
+logger.log('Hello world');
